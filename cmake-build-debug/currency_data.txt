@@ -1,0 +1,32 @@
+Australian dollar;AUD;1.5874
+Bulgarian lev;BGN;1.9558
+Real;BRL;4.2271
+Canadian dollar;CAD;1.5101
+Swiss franc;CHF;1.1269
+Renminbi Yuan;CNY;7.7018
+Czech koruna;CZK;25.564
+Danish krone;DKK;7.4642
+Pound sterling;GBP;0.88590
+Hong Kong dollar;HKD;8.9338
+Kuna;HRK;7.4268
+Forint;HUF;382.3445
+Rupiah;IDR;16.115.87
+New shekel;ILS;4.1880
+Indian rupee;INR;81.0055
+Icelandic krona;ISK;138.50
+Yen;JPY;123.91
+Won;KRW;1.278.36
+Mexican peso;MXN;21.6380
+Ringgit;MYR;4.6803
+Norwegian krone;NOK;9.7358
+New Zealand dollar;NZD;1.6817
+Philippine peso;PHP;59.468
+Zloty;PLN;4.2877
+New Romanian leu;RON;4.6850
+Russian rouble;RUB;75.9175
+Swedish krona;SEK;10.2488
+Singapore dollar;SGD;1.5439
+Baht;THB;36.115
+Turkish lira;TRY;6.1166
+US dollar;USD;1.1389
+South African rand;ZAR;15.6086
