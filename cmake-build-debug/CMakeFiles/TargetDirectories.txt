@@ -1,3 +1,0 @@
-E:/Programming/C Programming/Console currency converter in C/cmake-build-debug/CMakeFiles/Klausurbeispiel.dir
-E:/Programming/C Programming/Console currency converter in C/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Programming/C Programming/Console currency converter in C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
